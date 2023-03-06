@@ -1,0 +1,44 @@
+.btn-ungu{
+    background-color: #833761 !important;
+    border-color: #833761 !important;
+}
+.btn:hover{
+    background-color: #833761;
+    border-color: #833761;
+}
+.jumbotron{
+    height: 500px;
+    /*background-image: url("./asset/bg.png");*/
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: -20px;
+    margin-right: -12px;
+    border-radius: 0%;
+}
+.navbar{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+}
+.img-fluid{
+    width:40px;
+    height:40px; 
+    display:inline;
+    filter: invert(100%);
+    margin-top: -5px;
+}
+.invert{
+    filter: invert(100%);
+}
+.display-6{
+    font-size: 25px;
+}
+.greeting{
+    margin-top: 120px;
+}
+.ungu{
+    color: #833761;
+}
